@@ -140,6 +140,8 @@ xml
 properties
 crashlytics-build.properties
 
+properties
+
 
 # Editor-based Rest Client
 
